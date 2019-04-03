@@ -19,9 +19,24 @@
 			<e><p><l>im</l><r>eti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>	
 			<e><p><l>imo</l><r>eti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
 		</pardef>
+		#<pardef n="e_je__yat">
+    			<e>
+      				<p>
+        				<l>e</l>
+        				<r>e</r>
+      				</p>
+    			</e>
+    			<e>
+      				<p>
+        				<l>je</l>
+        				<r>e</r>
+      				</p>
+    			</e>
+  		</pardef>
 	</pardefs>
 	<section id="main" type="standard">
 		<e lm="gramofon"><i>gramofon</i><par n="gramofon__n"/></e>
 		<e lm="videti"><i>vid</i><par n="vid/eti__vblex"/></e>
+		#<e lm="rečnik"><i>r</i><par n="e_je__yat"/><i>čni</i><par n="rečni/k__n"/></e>
 	</section>
 </dictionary>
